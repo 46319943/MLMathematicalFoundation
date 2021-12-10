@@ -86,3 +86,5 @@ for(i in 1:1000){
 Ein_average = Ein_sum / 1000
 wlin_average = wlin_sum / 1000
 Ein_average_t = Ein_sum_t / 1000
+
+
